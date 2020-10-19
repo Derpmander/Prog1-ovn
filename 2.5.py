@@ -3,4 +3,4 @@ x=int(svar)
 m=0.25
 p=x*m
 
-print("med moms",p,"utan moms",x-p)
+print("med moms",x,"utan moms",x-p)
