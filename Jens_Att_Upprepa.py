@@ -11,4 +11,5 @@ while gissa !=correct:
         print("för stort")
 else:
     print("Rätt")
-print ("Antal försök:",försök)
+print (f"Antal försök: {försök}")
+print (f"The number was {correct}")
