@@ -1,7 +1,7 @@
 import random
 gissa=0
 försök=0
-correct= random.randint(1,3)
+correct= random.randint(1,1000)
 while gissa !=correct:
     försök+=1
     gissa=int(input("Skriv din gissning, Helst ett hel tal: "))
