@@ -1,4 +1,4 @@
-startHöjd=int(input("Start höjd:"))
+startHöjd=float(input("Start höjd:"))
 höjd=startHöjd
 förlust=0.7
 while höjd>0.01:
